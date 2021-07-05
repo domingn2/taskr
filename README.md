@@ -1,4 +1,4 @@
-# taskly
+# taskr
 
 https://www.youtube.com/watch?v=-Gk6lWWfEnk&t=92s&ab_channel=NoelDominguez
 
