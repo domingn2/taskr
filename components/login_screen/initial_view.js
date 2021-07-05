@@ -40,7 +40,7 @@ export default class InitialView extends Component {
           </TouchableOpacity>
           <TouchableOpacity onPress={this._handleSignUpPress.bind(this)}>
             <View style={styles.btnContainer}>
-              <Text style={styles.btnText}>{ 'Sign Up'.toUpperCase() }</Text>
+              <Text style={styles.btnText}>{ 'Sign Up Test'.toUpperCase() }</Text>
             </View>
           </TouchableOpacity>
         </View>
